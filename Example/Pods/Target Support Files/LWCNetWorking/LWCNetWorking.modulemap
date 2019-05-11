@@ -1,0 +1,6 @@
+framework module LWCNetWorking {
+  umbrella header "LWCNetWorking-umbrella.h"
+
+  export *
+  module * { export * }
+}

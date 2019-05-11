@@ -1,0 +1,16 @@
+PODS:
+  - LWCNetWorking (0.1.0)
+
+DEPENDENCIES:
+  - LWCNetWorking (from `../`)
+
+EXTERNAL SOURCES:
+  LWCNetWorking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LWCNetWorking: ef7064db1194ab1e5fc9fe18a413a2ccf941ba29
+
+PODFILE CHECKSUM: ed9053a16ffecb5875558fc87d9b640662bfda28
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,22 @@
+{
+  "name": "LWCNetWorking",
+  "version": "0.1.0",
+  "summary": "A short description of LWCNetWorking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lwc1990/LWCNetWorking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lwc1990": "lwc_funnylife@126.com"
+  },
+  "source": {
+    "git": "https://github.com/lwc1990/LWCNetWorking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LWCNetWorking/Classes/**/*"
+}

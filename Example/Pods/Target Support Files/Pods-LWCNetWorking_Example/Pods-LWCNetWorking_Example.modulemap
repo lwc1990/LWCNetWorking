@@ -1,0 +1,6 @@
+framework module Pods_LWCNetWorking_Example {
+  umbrella header "Pods-LWCNetWorking_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
