@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LWCNetWorking_Example' do
+  pod 'LWCNetWorking', :path => '../'
+
+  target 'LWCNetWorking_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
